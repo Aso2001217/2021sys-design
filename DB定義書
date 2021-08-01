@@ -1,3 +1,4 @@
+@startuml
 # DB定義書
 ## ER図
 [ER図はこちら]( https://github.com/masatokg/2021sys-design/blob/main/ER_all.md "ER図はこちら" )
@@ -54,3 +55,4 @@
 |削除フラグ|del_flag|int(11)||||
 |登録日|reg_date|date||〇||
 
+@enduml
